@@ -17,7 +17,7 @@ const Reviews = ({reviews}) => {
     <>
       <Head>
         <title>Жирные бургеры | Главная</title>
-        <mete name="title" content="Жирные бургеры" />
+        <meta name="title" content="Жирные бургеры" />
       </Head>
       <div>
         <h1>Отзывы клиентов</h1>

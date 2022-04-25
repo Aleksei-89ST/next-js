@@ -8,7 +8,7 @@ export default function Home() {
     <>
     <Head>
       <title>Жирные бургеры | Главная</title>
-      <mete name='title' content='Жирные бургеры'/>
+      <meta name='title' content='Жирные бургеры'/>
     </Head>
     <div className={styles.container}>
       <h1 className={`${styles.title} font-effect-fire-animation`}>Главная</h1>
